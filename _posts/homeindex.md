@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /portfolio/blog/
+permalink: /portfolio/_posts/
 ---
 
 # Posts
