@@ -8,8 +8,8 @@ B.S., Electrical Engineering and German minor | University of Florida (_May 2024
 - Point 1
 - Point 2
 
-**Undergraduate Teaching Assistant @ University of Florida (_August 2021 - May 2023_)**
-- *Courses: Elements of Electrical Engineering, Signals and Systems*
+**Undergraduate Teaching Assistant @ University of Florida (_August 2021 - May 2023_)**   
+*Courses: Elements of Electrical Engineering, Signals and Systems*
 - Point 1
 - Point 2
 
