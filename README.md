@@ -20,5 +20,3 @@ B.S., Electrical Engineering and German minor | University of Florida (_May 2024
 
 ### Undergraduate Research Assistant
 
-[**Blog**](www.brianpaulsen.github.io/portfolio/blog)
-
