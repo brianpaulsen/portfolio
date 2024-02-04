@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /portfolio/_posts/
+permalink: /portfolio/blog/
 ---
 
 # Posts
 
-[Welcome to my personal website and portfolio!](www.brianpaulsen.github.io/blog/welcome)
+[Welcome to my personal website and portfolio!](www.brianpaulsen.github.io/portfolio/blog/welcome)
