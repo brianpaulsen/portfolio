@@ -26,7 +26,7 @@ _Study Abroad_
 ### Undergraduate Research Assistant: SSTDR Applications for Solar Grid Fault Detection (_August 2021 - May 2024_)
 
 ## Publications
-* Incoming
+* _Incoming_
 
 ## Articles and Posts
-* [test](/_posts/2024-02-04-test.md)
+* [test](/_posts/2024-02-04-test.md) (_February 2nd, 2024_)
