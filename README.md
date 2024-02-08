@@ -1,4 +1,4 @@
-# Electrical Engineer
+# Electrical Engineer with a passion for sustainability
 
 ## Education
 B.S. Electrical Engineering and German minor | University of Florida (_May 2024_)
