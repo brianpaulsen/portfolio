@@ -1,5 +1,9 @@
 # Electrical Engineer with a passion for sustainability
 
+## Social and Contact Information
+LinkedIn: [https://www.linkedin.com/in/briantpaulsen/](https://www.linkedin.com/in/briantpaulsen/)
+E-Mail: [bt.paulsen101@gmail.com](bt.paulsen101@gmail.com)
+
 ## Education
 B.S. Electrical Engineering and German minor | University of Florida (_May 2024_)
 
@@ -7,7 +11,7 @@ Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_
 _Study Abroad_
 - Lived and studied alongside with students from around the world
 - Hands-on experience with German engineering, language, and culture
-- [_More on my experience in Germany_](https://www.instagram.com/p/Ce5am6KNFxK/)
+[_More on my experience in Germany_](https://www.instagram.com/p/Ce5am6KNFxK/)
 
 ## Work Experience
 **Engineering Intern @ The Walt Disney Company (_June 2023 - December 2023_)**
