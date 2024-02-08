@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
 title: Brian Paulsen
-show_downloads: false
 logo: /assets/images/headshotforwebsite.png
+show_downloads: false
+theme: jekyll-theme-minimal
