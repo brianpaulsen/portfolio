@@ -10,7 +10,7 @@ E-Mail: [bt.paulsen101@gmail.com](mailto:bt.paulsen101@gmail.com)
 ## Education
 B.S. Electrical Engineering and German minor | University of Florida (_May 2024_)
 
-Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_)
+Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_)  
 _Study Abroad_
 - Lived and studied alongside with students from around the world
 - Hands-on experience with German engineering, language, and culture  
