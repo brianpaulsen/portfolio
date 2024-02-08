@@ -1,4 +1,4 @@
-# Electrical Engineer with a passion for sustainability <br>
+# Electrical Engineer with a Passion for Sustainability  
 
 
 ### Social and Contact Information
@@ -14,6 +14,7 @@ Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_
 _Study Abroad_
 - Lived and studied alongside with students from around the world
 - Hands-on experience with German engineering, language, and culture  
+
 [_More on my experience in Germany_](https://www.instagram.com/p/Ce5am6KNFxK/)
 
 
