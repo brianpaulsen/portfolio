@@ -3,9 +3,11 @@
 ## Education
 B.S. Electrical Engineering and German minor | University of Florida (_May 2024_)
 
-[Study Abroad](https://www.instagram.com/p/Ce5am6KNFxK/): Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_)
+Hamburg University of Applied Sciences | Hamburg, Germany (_March - August 2022_)
+_Study Abroad_
 - Lived and studied alongside with students from around the world
 - Hands-on experience with German engineering, language, and culture
+- [_More on my experience in Germany_](https://www.instagram.com/p/Ce5am6KNFxK/)
 
 ## Work Experience
 **Engineering Intern @ The Walt Disney Company (_June 2023 - December 2023_)**
