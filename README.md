@@ -1,7 +1,7 @@
 # Electrical Engineer with a passion for sustainability
 
 ## Social and Contact Information
-[View My Resume Here](/assets/Brian Paulsen Resume.pdf)  
+[View My Resume Here](https://github.com/brianpaulsen/portfolio/blob/3c6be672c4e6ac5efd9954f74463a82539bcf882/assets/Brian%20Paulsen%20Resume.pdf)  
 LinkedIn: [https://www.linkedin.com/in/briantpaulsen/](https://www.linkedin.com/in/briantpaulsen/)  
 E-Mail: [bt.paulsen101@gmail.com](bt.paulsen101@gmail.com)
 
