@@ -1,4 +1,4 @@
-Electrical Engineer with a Passion for Sustainability
+## Electrical Engineer with a Passion for Sustainability
 
 
 ### Social and Contact Information
