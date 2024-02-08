@@ -2,7 +2,7 @@
 
 
 ### Social and Contact Information
-[View My Resume Here](/assets/BrianPaulsenResume.pdf "Updated 2/8/24")  
+[View My Resume Here](/portfolio/assets/BrianPaulsenResume.pdf "Updated 2/8/24")  
 LinkedIn: [https://www.linkedin.com/in/briantpaulsen/](https://www.linkedin.com/in/briantpaulsen/)  
 E-Mail: [bt.paulsen101@gmail.com](mailto:bt.paulsen101@gmail.com)
 
