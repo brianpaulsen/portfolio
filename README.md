@@ -28,12 +28,12 @@ _Study Abroad_
 ### Autonomous Robots Final Project (_January - May 2024_)
 University of Florida | EEL4930 Autonomous Robots
 - EEL4930 is a special topics course focusing on design principals of autonomous robots using ROS/ROS2
-- Using the open-source platform TurtleBot, our team will implement a board game-playing robot!
+- Using the open-source platform _TurtleBot_, our team will implement a board game-playing robot!
 
 ### Undergraduate Research Assistant: SSTDR Applications for Solar Grid Fault Detection (_August 2021 - May 2024_)
 University of Florida | SmartDATA Lab | Funded by the US Department of Energy
 - This project focused on using Spread-spectrum Time-domain Reflectometry ([SSTDR](https://en.wikipedia.org/wiki/Spread-spectrum_time-domain_reflectometry)) to more effectively locate faults in solar grids
-- SSTDR data was collected from a photovoltaic setup and two different algorithms- Dynamic Time Warping and the Mellin Transform- were applied to the data
+- SSTDR data was collected from a photovoltaic setup and two different algorithms- _Dynamic Time Warping_ and _the Mellin Transform_- were applied to the data
 - Statistical analysis was then used to compare the performance of the two algorithms
 
 ## Publications
