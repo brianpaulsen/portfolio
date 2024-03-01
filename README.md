@@ -44,5 +44,5 @@ University of Florida | SmartDATA Lab | Funded by the US Department of Energy
 ## Articles and Posts
 * [Welcome!](/_posts/2024-02-04-welcome.md) (_February 2nd, 2024_)
 
-<[en](brianpaulsen.github.io/portfolio)/[de](/assets/deutscheseite.md)>
+<[en](/portfolio)/[de](/assets/deutscheseite.md)>
 
